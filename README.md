@@ -1,4 +1,3 @@
-# Analysis-using-two-way-anova
 
 # 🧮 Analysis of Income Levels in Villages Based on Population Size and Employment Type Using Two-Way ANOVA
 
@@ -45,6 +44,7 @@ This analysis tests both the **main effects** and the **interaction effect** of 
 
 * **H₀₃**: No interaction effect between population size and employment type.
 * **H₁₃**: There **is** an interaction effect between population size and employment type.
+  
 
 ![Interaction Effect of population size and employment type on income](Img/interaction.png)
 
@@ -73,7 +73,7 @@ A **hypothetical dataset** was generated with **90 random data points**, with **
 2. ✅ **Employment type** significantly influences income (p < 0.0001).
 3. ❌ **No significant interaction effect** (p = 0.057): Employment type impacts income similarly across village sizes.
 
-![ANOVA results](Img/results.png)
+   ![ANOVA results](Img/results.png)
 
 ## 📈 Descriptive Statistics
 
@@ -94,7 +94,7 @@ A **hypothetical dataset** was generated with **90 random data points**, with **
 * Business and Service jobs yield **higher incomes** than Agriculture.
 * **Income increases** as village population size increases.
 
-![Discriptive statistics](Img/dicriptivestat.png)
+  ![Discriptive statistics](Img/decriptivestat.png)
 
 ## 🖼️ Visual Analysis
 
@@ -102,13 +102,13 @@ A **hypothetical dataset** was generated with **90 random data points**, with **
 
 > Larger villages show **higher median incomes**; small villages have **less variation** and **lower overall income**.
 
-![Income by Population Size](Img/incomedis.png)
+ ![Income by Population Size](Img/incomedis.png)
 
 ### 2. 💼 Income Distribution by Employment Type
 
 > **Business jobs** provide the **highest income**, followed by **Service**, and **Agriculture** being the lowest.
 
-![Income by Employment Type](Img/incomeemplo.png)
+ ![Income by Employment Type](Img/incomeemplo.png)
 
 
 ## 📌 Conclusion
